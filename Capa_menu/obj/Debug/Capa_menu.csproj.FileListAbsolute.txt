@@ -1,0 +1,148 @@
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\bin\Debug\Capa_menu.exe.config
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\bin\Debug\Capa_menu.exe
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\bin\Debug\Capa_menu.pdb
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.csprojResolveAssemblyReference.cache
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.Properties.Resources.resources
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.csproj.GenerateResource.Cache
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.exe
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.pdb
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.Menu.resources
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\bin\Debug\Capa clases ABMC.dll
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\bin\Debug\Capa datos ABMC.dll
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\bin\Debug\MySqlConnector.dll
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\bin\Debug\System.Buffers.dll
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\bin\Debug\System.Memory.dll
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\bin\Debug\System.Threading.Tasks.Extensions.dll
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\bin\Debug\Capa clases ABMC.pdb
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\bin\Debug\Capa datos ABMC.pdb
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\bin\Debug\MySqlConnector.xml
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\bin\Debug\System.Buffers.xml
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\bin\Debug\System.Memory.xml
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+c:\users\brian\documents\visual studio 2015\Projects\Trabajo ABMC\Capa_menu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\bin\Debug\Capa_menu.exe.config
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\bin\Debug\Capa_menu.exe
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\bin\Debug\Capa_menu.pdb
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\bin\Debug\Capa clases ABMC.dll
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\bin\Debug\Capa datos ABMC.dll
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\bin\Debug\MySqlConnector.dll
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\bin\Debug\System.Buffers.dll
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\bin\Debug\System.Memory.dll
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\bin\Debug\Capa clases ABMC.pdb
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\bin\Debug\Capa datos ABMC.pdb
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\bin\Debug\MySqlConnector.xml
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\bin\Debug\System.Buffers.xml
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\bin\Debug\System.Memory.xml
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.Menu.resources
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.Properties.Resources.resources
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.csproj.GenerateResource.Cache
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.exe
+C:\Users\Brian\Desktop\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.pdb
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\Capa_menu.exe.config
+D:\Polverini\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.exe
+D:\Polverini\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.pdb
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\Capa_menu.exe.config
+E:\Polverini\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.exe
+E:\Polverini\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.pdb
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\Capa_menu.exe
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\Capa_menu.pdb
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\Capa clases ABMC.dll
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\Capa datos ABMC.dll
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\mscorlib.dll
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\MySqlConnector.dll
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Buffers.dll
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Memory.dll
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Net.Http.dll
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\Capa clases ABMC.pdb
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\Capa datos ABMC.pdb
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\MySqlConnector.xml
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Buffers.xml
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Memory.xml
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Net.Http.xml
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\es\mscorlib.resources.dll
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\es\System.Net.Http.resources.dll
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\normidna.nlp
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\normnfc.nlp
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\normnfd.nlp
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\normnfkc.nlp
+E:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\normnfkd.nlp
+E:\Polverini\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.csprojResolveAssemblyReference.cache
+E:\Polverini\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.Menu.resources
+E:\Polverini\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.Properties.Resources.resources
+E:\Polverini\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.csproj.GenerateResource.Cache
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\Capa_menu.exe
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\Capa_menu.pdb
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\Capa clases ABMC.dll
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\Capa datos ABMC.dll
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\mscorlib.dll
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\MySqlConnector.dll
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Buffers.dll
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Memory.dll
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Net.Http.dll
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\Capa clases ABMC.pdb
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\Capa datos ABMC.pdb
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\MySqlConnector.xml
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Buffers.xml
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Memory.xml
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\System.Net.Http.xml
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\es\mscorlib.resources.dll
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\es\System.Net.Http.resources.dll
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\normidna.nlp
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\normnfc.nlp
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\normnfd.nlp
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\normnfkc.nlp
+D:\Polverini\Trabajo ABMC\Capa_menu\bin\Debug\normnfkd.nlp
+D:\Polverini\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.csprojResolveAssemblyReference.cache
+D:\Polverini\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.Menu.resources
+D:\Polverini\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.Properties.Resources.resources
+D:\Polverini\Trabajo ABMC\Capa_menu\obj\Debug\Capa_menu.csproj.GenerateResource.Cache
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\Capa_menu.exe.config
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\Capa_menu.exe
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\Capa_menu.pdb
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\Capa clases ABMC.dll
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\Capa datos ABMC.dll
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\MySqlConnector.dll
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\System.Buffers.dll
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\System.Memory.dll
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\Capa clases ABMC.pdb
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\Capa datos ABMC.pdb
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\MySqlConnector.xml
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\System.Buffers.xml
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\System.Memory.xml
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\obj\Debug\Capa_menu.csprojResolveAssemblyReference.cache
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\obj\Debug\Capa_menu.Menu.resources
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\obj\Debug\Capa_menu.Properties.Resources.resources
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\obj\Debug\Capa_menu.csproj.GenerateResource.Cache
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\obj\Debug\Capa_menu.exe
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\obj\Debug\Capa_menu.pdb
+C:\Users\usuario2\Desktop\Trabajo ABMC - copia\Capa_menu\bin\Debug\Capa_menu.exe.config
+C:\Users\usuario2\Desktop\Trabajo ABMC - copia\Capa_menu\obj\Debug\Capa_menu.exe
+C:\Users\usuario2\Desktop\Trabajo ABMC - copia\Capa_menu\obj\Debug\Capa_menu.pdb
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\mscorlib.dll
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\System.Net.Http.dll
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\System.Net.Http.xml
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\es\mscorlib.resources.dll
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\es\System.Net.Http.resources.dll
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\normidna.nlp
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\normnfc.nlp
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\normnfd.nlp
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\normnfkc.nlp
+D:\Polverini\Trabajo ABMC - copia\Capa_menu\bin\Debug\normnfkd.nlp
